@@ -1,0 +1,19 @@
+{
+    "URLS": {
+        "BASEPATH": "http://35.207.169.147",
+        "AUTH": "/auth",
+        "HORSE_TROT_DATA": "/results"
+    },
+    "MONGO": {
+        "URL": "mongodb://127.0.0.1:27017/gg",
+        "OPTIONS": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true
+        },
+        "DB": "gg"
+    },
+    "ACCOUNT_DETAILS": {
+        "EMAIL": "narayankar.prajakta06@gmail.com",
+        "PASSWORD": "lTgAYaLP9jRs"
+    }
+}

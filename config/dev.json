@@ -1,0 +1,10 @@
+{
+    "MONGO": {
+        "URL": "mongodb://mongo:27018/gg",
+        "OPTIONS": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true
+        },
+        "DB": "gg"
+    }
+}
